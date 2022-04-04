@@ -237,11 +237,11 @@
 # # output should be{'h': 'hima', 'i': 'hima', 'm': 'hima', 'a': 'hima'} 
 
 
-# str="hima"
-# d={}
-# for i in str:
-#     d[i]=str
-# print(d)
+str="hima"
+d={}
+for i in str:
+    d[i]=str
+print(d)
 
 
 # list=[1,2,3,4,5,6,7,8,9,10]
